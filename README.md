@@ -12,3 +12,8 @@ As this is a project in the field of **hardware**,I need to have a _Prepared Lea
 - IO(comprised of internet,drive.database,...)
 - Computer Architecture:x86,MIPS,ARM (assemble language)
 
+1. Fundamentals of Circuit Analysis
+2. Signals and Systems
+3. Analog circuit
+4. Digital circuit
+5. [verilog HDL](https://hdlbits.01xz.net/wiki/Main_Page)
