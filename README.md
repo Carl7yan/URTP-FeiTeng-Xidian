@@ -5,5 +5,10 @@
 ## Prepared Learning
 As this is a project in the field of **hardware**,I need to have a _Prepared Learning_
 
-[Computer organization](https://www.coursera.org/learn/jisuanji-zucheng?)
+1.[Computer organization](https://www.coursera.org/learn/jisuanji-zucheng?)
+  IC,SoC
+  CPU
+  PCIe Graphics card
+  IO(comprised of internet,drive.database,...)
+  Computer Architecture:x86,MIPS,ARM (assemble language)
 
