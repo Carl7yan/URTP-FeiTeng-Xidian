@@ -10,9 +10,6 @@ As this is a project in the field of **hardware**,I need to have a _Prepared Lea
 
 
 School IC curriculums:
-1. Mathematics
-2. Fundamentals of Circuit Analysis
-3. Signals and Systems
 4. Analog circuit
 5. Digital circuit
 6. [verilog HDL](https://hdlbits.01xz.net/wiki/Main_Page)
