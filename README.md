@@ -11,6 +11,7 @@ As this is a project in the field of **hardware**,I need to have a _Prepared Lea
 3. Integrated Circuit:
 - [Digital circuit](https://www.tutorialspoint.com/digital_circuits/digital_combinational_circuits.htm)
 - [Analog circuit](https://www.electronics-tutorial.net/analog-integrated-circuits/)
+- [Analog2](https://www.analog.com/en/education/education-library/tutorials.html)
 - [verilog HDL](https://hdlbits.01xz.net/wiki/Main_Page)
 - [EDA playground](https://www.edaplayground.com/)
 
