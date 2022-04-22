@@ -13,9 +13,9 @@ As this is a project in the field of **hardware**,I need to have a _Prepared Lea
 - [Signals and Systems](https://www.tutorialspoint.com/signals_and_systems/index.htm)
 - [Digital Circuit](https://www.tutorialspoint.com/digital_circuits/digital_combinational_circuits.htm)
 - Analog Circuit
+- 
 - [verilog HDL](https://hdlbits.01xz.net/wiki/Main_Page)
 - [EDA playground](https://www.edaplayground.com/)
-- 
 - [icarus verilog](http://iverilog.icarus.com/)
 
 
