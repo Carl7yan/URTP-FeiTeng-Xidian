@@ -15,6 +15,8 @@ As this is a project in the field of **hardware**,I need to have a _Prepared Lea
 - Analog Circuit
 - [verilog HDL](https://hdlbits.01xz.net/wiki/Main_Page)
 - [EDA playground](https://www.edaplayground.com/)
+- 
+- [icarus verilog](http://iverilog.icarus.com/)
 
 
 ![1650093500413](https://user-images.githubusercontent.com/94885426/163666367-e095df95-682e-4424-bde6-e28f776d9a0f.jpg)
