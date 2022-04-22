@@ -9,6 +9,8 @@ As this is a project in the field of **hardware**,I need to have a _Prepared Lea
 - PCIe Graphics card
 - IO(comprised of internet,drive.database,...)
 3. Integrated Circuit:
+- [Citcuit Analysis](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic)
+- [Signals and Systems](https://www.tutorialspoint.com/signals_and_systems/index.htm)
 - [Digital circuit](https://www.tutorialspoint.com/digital_circuits/digital_combinational_circuits.htm)
 - [Analog circuit](https://www.electronics-tutorial.net/analog-integrated-circuits/)
 - [Analog2](https://www.analog.com/en/education/education-library/tutorials.html)
