@@ -14,7 +14,7 @@ As this is a project in the field of **hardware**,I need to have a _Prepared Lea
 - [Digital Circuit](https://www.tutorialspoint.com/digital_circuits/digital_combinational_circuits.htm)
 - Analog Circuit
 - 
-- [verilog HDL](https://hdlbits.01xz.net/wiki/Main_Page)
+- verilog HDL: [[HDLbits](https://hdlbits.01xz.net/wiki/Main_Page)],[verilog](https://www.javatpoint.com/verilog)
 - [EDA playground](https://www.edaplayground.com/)
 - [icarus verilog](http://iverilog.icarus.com/)
 
